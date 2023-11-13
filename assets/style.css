@@ -35,6 +35,8 @@ p{
 }
 
 #COOKIE{
+    background-color: white;
+    margin: auto;
     background-image: url("boton.png");
     background-size: cover;
     height: 100px;
