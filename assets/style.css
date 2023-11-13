@@ -1,0 +1,79 @@
+body {
+    background-image: url("bg.jpg");
+}
+
+t{
+    font-size: 70px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    font-size: 30px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.bucontainer{
+    background-color: rgb(196, 70, 70);
+    height:260px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+.scontainer {
+    font-size: 10px;
+    background-color: rgb(49, 120, 122);
+    width: 500px;
+    margin: auto;
+    text-align: center;
+
+    font-size: 30px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#COOKIE{
+    background-image: url("boton.png");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    border-radius: 10%;
+}
+
+#Clicks{
+    font-size: 20px;
+}
+
+#add1{
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    height: 32px;
+    width: 100px;
+}
+
+#add10{
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    height: 64px;
+    width: 100px;
+}
+
+#times100{
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    height: 32px;
+    width: 100px;
+}
+
+#times1000{
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    height: 32px;
+    width: 100px;
+}
