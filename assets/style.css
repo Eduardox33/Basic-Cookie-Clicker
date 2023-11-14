@@ -42,6 +42,10 @@ p{
     height: 100px;
     width: 100px;
     border-radius: 10%;
+    transition: transform 0.2s;
+}
+#COOKIE:active{
+    transform: scale(1.1);
 }
 
 #Clicks{
